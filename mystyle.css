@@ -1,0 +1,20 @@
+#image {
+	position: absolute;
+	left: 50%;
+	margin-left: -12.5%;
+	width: 336px;
+	height: 234px;
+}
+
+
+button {
+	position: absolute;
+	left: 50%;
+	margin-left: -12.5%;
+	background-image: url('268.gif.pagespeed.ce.D_7QgtUAL5FutUPI-AzT.gif');
+	width: 336px;
+	height: 234px;
+	border: none;
+}
+
+
